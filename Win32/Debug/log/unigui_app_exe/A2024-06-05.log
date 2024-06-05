@@ -1,0 +1,19 @@
+UniGUI_App.exe: 000015D4: 10:02:17 []:>--------------------------------------------------------------<
+UniGUI_App.exe: 000015D4: 10:02:17 [TUniServerModule]:Server First Init.
+UniGUI_App.exe: 000015D4: 10:02:17 [TUniServerModule]:Start Path = C:\Users\USUARIO\Desktop\APPTESTE\UNiGUI_APP\Win32\Debug\
+UniGUI_App.exe: 000015D4: 10:02:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+UniGUI_App.exe: 000015D4: 10:02:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+UniGUI_App.exe: 000015D4: 10:02:24 [TUniServerModule]:Shutting Down Server.
+UniGUI_App.exe: 000015D4: 10:02:24 [TUniServerModule]:Stopping HTTP Server.
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniServerModule]:HTTP Server Stopped.
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniGUISessionManager]:Terminating Session manager.
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniGUISessionManager]:Stopping Cache Eraser...
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniGUISessionManager]:Cache Eraser Stopped.
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniGUISessionManager]:Destroying Worker Threads.
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniGUISessionManager]:Session manager terminated.
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniWebSocketStack]:Terminating...
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniGUIMessageQ]:Terminated.
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniWebSocketStack]:Terminated.
+UniGUI_App.exe: 000015D4: 10:02:25 [TUniServerModule]:Server Shutdown Completed.
+UniGUI_App.exe: 000015D4: 10:02:25 []:<-------------------------------------------------------------->
+UniGUI_App.exe: 000015D4: 10:02:25 [Terminated]:Exit Code: 0
